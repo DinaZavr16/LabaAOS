@@ -1,0 +1,36 @@
+Client Connected
+0
+_________________________________________
+Server Waiting
+0
+_________________________________________
+Server get command (Who)
+4
+_________________________________________
+Server sent message (Who:#Kaplenko Olexandr K-25#Variant num_10 (Find by context)#)
+4
+_________________________________________
+Server Waiting
+4
+_________________________________________
+Server Get command (Find)
+8
+_________________________________________
+Server wait word
+8
+_________________________________________
+Server get word
+14
+_________________________________________
+Server find:
+always in a hurry#always comes when his name he hears#
+14
+_________________________________________
+Server Waiting
+14
+_________________________________________
+Server get command (Exit)
+20
+_________________________________________
+Server sent message (End of work!#)
+20

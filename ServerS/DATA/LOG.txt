@@ -1,0 +1,36 @@
+Client connected to the server
+0
+=========================================
+Server is waiting
+0
+=========================================
+Server got the command 'Who'
+2
+=========================================
+Server the sent message 'Who:#Formakidova DinaK-26 
+2
+=========================================
+Server is waiting
+2
+=========================================
+Server got the command 'Find'
+9
+=========================================
+Server is waiting the word
+9
+=========================================
+Server got the word
+11
+=========================================
+Server found:
+But if it had to perish twice,#Nature's first green is gold,#
+11
+=========================================
+Server is waiting
+11
+=========================================
+Server got the command 'Exit'
+31
+=========================================
+Server sent the message 'The End!!!#'
+31
